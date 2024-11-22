@@ -34,7 +34,10 @@ We also include in this list several repositories with code and documentation fo
 - Tropical glacier ecosystems:
   - [Cordillera de Merida assessment](https://github.com/red-list-ecosystem/T6.1-SA-01-VE-01-Cordillera-Merida) 
   - [Global suitability model](https://github.com/red-list-ecosystem/T6.1-tropical-glaciers-suitability-model)
+- Coral reef ecosystems:
+  - [General framework for RLE evaluation of coral reef ecosystems](https://github.com/red-list-ecosystem/cordio-ea_iucn_regional-rle_coral_reefs)  
 - [RLE in Africa](https://github.com/red-list-ecosystem/RLE-Africa)
+
 - Forest macrogroups of the Americas
   - [RLE results](https://github.com/red-list-ecosystem/RLE-forests-panam-results)
   - [Spatial data](https://github.com/red-list-ecosystem/RLE-forests-panam-GIS)
