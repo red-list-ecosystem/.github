@@ -4,6 +4,14 @@ This GitHub organisation is maintained by members of the IUCN Red List of Ecosys
 
 Here we provide useful tools and resources for the classification, mapping and risk assessment of ecosystem types. 
 
+## IUCN Red List of Ecosystems practitioners forum
+
+If you have questions about the IUCN Red List of Ecosystems, you can join the **IUCN Red List of Ecosystems practitioners forum** by filling [an online-form](https://docs.google.com/forms/d/e/1FAIpQLSfTq0MIM_BJRhKvasfwHw4YDOhx3wg4kHfAXU2VTvLueVJRcA/viewform).
+
+The forum is aimed to allow practitioners to ask for advice, learn from the experiences of others, access expertise where necessary and promote collaborations across regions that are implementing the RLE. 
+
+If you have specific questions about the data and repositories in this GitHub organisation, you can also use the `Issues` menu of each repository.
+
 ## Guide to our repositories
 
 We include here code-focused repositories that are intended as tools for helping user in completing Red List of Ecosystem assessments, and 
